@@ -1,0 +1,7 @@
+c 001 1 1 0
+c 002 Ana_Sofía_Argüelles 8181818182 0
+c 003 Joel_Milla 8181818183 0
+c 004 Eugenia_Ruíz 8181818184 0
+a 005 Casa_Douglas 8181818185 0 Monterrey
+a 006 Fundacion_Humana 8181818186 0 Monterrey
+a 007 2 2 0
